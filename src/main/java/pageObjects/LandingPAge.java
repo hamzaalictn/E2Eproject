@@ -17,15 +17,16 @@ public class LandingPAge extends base {
 		this.driver = driver;
 	}
 
-	
-	
-
-	public WebElement getLogin() {
-		return driver.findElement(singIn);		
+	public LoginPage getLogin() {
+		driver.findElement(singIn).click();
+		LoginPage login = new LoginPage(driver);
+		return login;
 	}
+
 	public WebElement getTitle() {
 		return this.driver.findElement(title);
 	}
+
 	public WebElement getNavigatorBar() {
 		return this.driver.findElement(navgaterBar);
 	}

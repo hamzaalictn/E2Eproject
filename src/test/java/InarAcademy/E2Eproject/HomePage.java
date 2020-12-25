@@ -32,13 +32,13 @@ public class HomePage extends base {
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to Home page ");
 		LandingPAge l = new LandingPAge(driver);
-		l.getLogin().click();
-		LoginPage login = new LoginPage(driver);
+		LoginPage login = l.getLogin();
 		login.loginEmail(name, password);
 		log.info("succesfully Validated");
 
 	}
 
+	
 	@DataProvider
 	public Object[][] getData() {
 		Object[][] data = new Object[2][2];
