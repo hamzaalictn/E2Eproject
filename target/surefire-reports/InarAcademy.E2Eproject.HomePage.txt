@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: InarAcademy.E2Eproject.HomePage
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.349 s <<< FAILURE! - in InarAcademy.E2Eproject.HomePage
+basePageNavigation(InarAcademy.E2Eproject.HomePage)  Time elapsed: 0.102 s  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html
+	at InarAcademy.E2Eproject.HomePage.basePageNavigation(HomePage.java:11)
+

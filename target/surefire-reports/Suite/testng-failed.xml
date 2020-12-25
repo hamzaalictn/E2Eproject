@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="tests" name="Landing to Login page and login(failed)" verbose="0">
+    <classes>
+      <class name="InarAcademy.E2Eproject.HomePage">
+        <methods>
+          <include name="basePageNavigation" invocation-numbers="0"/>
+          <include name="closePages"/>
+          <include name="Initialize"/>
+        </methods>
+      </class> <!-- InarAcademy.E2Eproject.HomePage -->
+    </classes>
+  </test> <!-- Landing to Login page and login(failed) -->
+</suite> <!-- Failed suite [Suite] -->
