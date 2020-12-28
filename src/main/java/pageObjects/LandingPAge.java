@@ -31,4 +31,7 @@ public class LandingPAge extends base {
 		return this.driver.findElement(navgaterBar);
 	}
 
+
+
+
 }
