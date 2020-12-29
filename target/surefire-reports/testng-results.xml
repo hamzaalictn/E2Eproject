@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-25T22:26:54 CET" name="Suite" finished-at="2020-12-25T22:27:05 CET" duration-ms="10845">
+  <suite started-at="2020-12-28T17:31:11 CET" name="Suite" finished-at="2020-12-28T17:31:25 CET" duration-ms="14776">
     <groups>
     </groups>
-    <test started-at="2020-12-25T22:26:54 CET" name="Validating Title" finished-at="2020-12-25T22:27:02 CET" duration-ms="7365">
+    <test started-at="2020-12-28T17:31:11 CET" name="Validating Title" finished-at="2020-12-28T17:31:19 CET" duration-ms="8331">
       <class name="InarAcademy.E2Eproject.TestTitle">
-        <test-method is-config="true" signature="Initialize()[pri:0, instance:InarAcademy.E2Eproject.TestTitle@614df0a4]" started-at="2020-12-25T22:26:54 CET" name="Initialize" finished-at="2020-12-25T22:26:54 CET" duration-ms="6" status="PASS">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:InarAcademy.E2Eproject.TestTitle@614df0a4]" started-at="2020-12-28T17:31:11 CET" name="Initialize" finished-at="2020-12-28T17:31:11 CET" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialize -->
-        <test-method signature="basePageNavigation()[pri:0, instance:InarAcademy.E2Eproject.TestTitle@614df0a4]" started-at="2020-12-25T22:26:54 CET" name="basePageNavigation" finished-at="2020-12-25T22:27:01 CET" duration-ms="7224" status="PASS">
+        <test-method signature="basePageNavigation()[pri:0, instance:InarAcademy.E2Eproject.TestTitle@614df0a4]" started-at="2020-12-28T17:31:11 CET" name="basePageNavigation" finished-at="2020-12-28T17:31:19 CET" duration-ms="8245" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="closePages()[pri:0, instance:InarAcademy.E2Eproject.TestTitle@614df0a4]" started-at="2020-12-25T22:27:01 CET" name="closePages" finished-at="2020-12-25T22:27:02 CET" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="closePages()[pri:0, instance:InarAcademy.E2Eproject.TestTitle@614df0a4]" started-at="2020-12-28T17:31:19 CET" name="closePages" finished-at="2020-12-28T17:31:19 CET" duration-ms="61" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closePages -->
       </class> <!-- InarAcademy.E2Eproject.TestTitle -->
     </test> <!-- Validating Title -->
-    <test started-at="2020-12-25T22:26:54 CET" name="Checking if NavigatorBar displayed" finished-at="2020-12-25T22:27:03 CET" duration-ms="8866">
+    <test started-at="2020-12-28T17:31:11 CET" name="Checking if NavigatorBar displayed" finished-at="2020-12-28T17:31:20 CET" duration-ms="9587">
       <class name="InarAcademy.E2Eproject.NavigatorBarIsDisplayed">
-        <test-method signature="basePageNavigation()[pri:0, instance:InarAcademy.E2Eproject.NavigatorBarIsDisplayed@68be8808]" started-at="2020-12-25T22:26:54 CET" name="basePageNavigation" finished-at="2020-12-25T22:27:03 CET" duration-ms="8745" status="PASS">
+        <test-method signature="basePageNavigation()[pri:0, instance:InarAcademy.E2Eproject.NavigatorBarIsDisplayed@68be8808]" started-at="2020-12-28T17:31:11 CET" name="basePageNavigation" finished-at="2020-12-28T17:31:20 CET" duration-ms="9517" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="closePages()[pri:0, instance:InarAcademy.E2Eproject.NavigatorBarIsDisplayed@68be8808]" started-at="2020-12-25T22:27:03 CET" name="closePages" finished-at="2020-12-25T22:27:03 CET" duration-ms="106" status="PASS">
+        <test-method is-config="true" signature="closePages()[pri:0, instance:InarAcademy.E2Eproject.NavigatorBarIsDisplayed@68be8808]" started-at="2020-12-28T17:31:20 CET" name="closePages" finished-at="2020-12-28T17:31:20 CET" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closePages -->
       </class> <!-- InarAcademy.E2Eproject.NavigatorBarIsDisplayed -->
     </test> <!-- Checking if NavigatorBar displayed -->
-    <test started-at="2020-12-25T22:26:54 CET" name="Landing to Login page and login" finished-at="2020-12-25T22:27:05 CET" duration-ms="10845">
+    <test started-at="2020-12-28T17:31:11 CET" name="Landing to Login page and login" finished-at="2020-12-28T17:31:25 CET" duration-ms="14776">
       <class name="InarAcademy.E2Eproject.HomePage">
-        <test-method is-config="true" signature="Initialize()[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-25T22:26:54 CET" name="Initialize" finished-at="2020-12-25T22:26:54 CET" duration-ms="6" status="PASS">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-28T17:31:11 CET" name="Initialize" finished-at="2020-12-28T17:31:11 CET" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialize -->
-        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-25T22:26:54 CET" name="basePageNavigation" data-provider="getData" finished-at="2020-12-25T22:27:03 CET" duration-ms="9089" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-28T17:31:11 CET" name="basePageNavigation" data-provider="getData" finished-at="2020-12-28T17:31:20 CET" duration-ms="9820" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-25T22:27:03 CET" name="basePageNavigation" data-provider="getData" finished-at="2020-12-25T22:27:05 CET" duration-ms="1686" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-28T17:31:20 CET" name="basePageNavigation" data-provider="getData" finished-at="2020-12-28T17:31:25 CET" duration-ms="4831" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,7 +71,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="closePages()[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-25T22:27:05 CET" name="closePages" finished-at="2020-12-25T22:27:05 CET" duration-ms="54" status="PASS">
+        <test-method is-config="true" signature="closePages()[pri:0, instance:InarAcademy.E2Eproject.HomePage@76012793]" started-at="2020-12-28T17:31:25 CET" name="closePages" finished-at="2020-12-28T17:31:25 CET" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closePages -->
